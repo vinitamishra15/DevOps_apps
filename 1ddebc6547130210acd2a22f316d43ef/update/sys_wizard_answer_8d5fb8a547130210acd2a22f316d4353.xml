@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>TST_TBL001</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>TST_TBL001</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">3335bf08e412021008dda4ccc4008005</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-07-09 14:19:19</sys_created_on>
+        <sys_id>8d5fb8a547130210acd2a22f316d4353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TST_TBL001</sys_name>
+        <sys_package display_value="Job portal" source="x_1464770_job_po_0">1ddebc6547130210acd2a22f316d43ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job portal">1ddebc6547130210acd2a22f316d43ef</sys_scope>
+        <sys_update_name>sys_wizard_answer_8d5fb8a547130210acd2a22f316d4353</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-07-09 14:19:19</sys_updated_on>
+        <table/>
+        <target_url>x_1464770_job_po_0_tst_tbl001.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

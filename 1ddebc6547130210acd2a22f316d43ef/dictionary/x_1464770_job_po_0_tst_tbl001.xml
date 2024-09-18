@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="055fb8a547130210acd2a22f316d4352" extends="task" label="TST_TBL001" max_length="40" name="x_1464770_job_po_0_tst_tbl001" text_index="true" type="collection"/>
+</database>
